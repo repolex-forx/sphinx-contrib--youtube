@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/youtube/commit/5238c057730f953ed7c38316aad692a5231294f1",
       "git:hexsha": "5238c057730f953ed7c38316aad692a5231294f1",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.5.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.5.0",
+      "repolex:parsedAt": "2026-11-06T08:22:52.192413+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/youtube/commit/b139a8c572d527110c12ced8812bc9c8d0c9e704",
