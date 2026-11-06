@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "youtube",
+  "versions": [
+    {
+      "commit": "5238c057730f953ed7c38316aad692a5231294f1",
+      "tag": "v1.5.0",
+      "parsed_at": "2026-11-06T08:22:52.192939+00:00"
+    }
+  ]
+}
